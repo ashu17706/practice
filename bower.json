@@ -1,0 +1,27 @@
+{
+  "name": "my_bower",
+  "version": "1.0.0",
+  "authors": [
+    "ashu17706 <ashu17706@gmail.com>"
+  ],
+  "description": "this is my test project just to play with bower.",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bower",
+    "test",
+    "my",
+    "package"
+  ],
+  "license": "MIT",
+  "homepage": "http://lapata.in",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
